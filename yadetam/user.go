@@ -5,6 +5,7 @@ type User struct {
 	ID   string
 	OS   string
 	Name string
+	Base
 }
 
 // UserService is the interface that intracts with a user

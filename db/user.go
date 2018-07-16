@@ -2,7 +2,7 @@ package db
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/sepidario/yadetam"
+	"github.com/sepidario/yadetam/yadetam"
 )
 
 // UserService implements yadetam.UserService interface
